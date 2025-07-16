@@ -6,7 +6,7 @@
 
 - 📄 Know about my experiences [Russian Resume](https://drive.google.com/file/d/1YBuXUaezW-98u3ebejU4IWJ_ZAz66G4m/view?usp=sharing)
 
-- 📫 How to reach me alexg4466@gmail.com | [@kekwra](https://t.me/kekwra)
+- 📫 How to reach me alexg4466@yandex.ru | [@avgrishkov](https://t.me/avgrishkov)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
