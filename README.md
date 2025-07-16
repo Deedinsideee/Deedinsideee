@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Spring, Java**
 
-- 📄 Know about my experiences [Russian Resume](https://drive.google.com/file/d/1YBuXUaezW-98u3ebejU4IWJ_ZAz66G4m/view?usp=sharing)
+- 📄 Know about my experiences [Russian Resume]()
 
 - 📫 How to reach me alexg4466@yandex.ru | [@avgrishkov](https://t.me/avgrishkov)
 
